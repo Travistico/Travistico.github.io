@@ -858,12 +858,6 @@ dl dd {
   }
 }
 
-/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) { }
-
-/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) { }
-
 /* Custom */
 .post-img {
 height: 250px; 
@@ -872,3 +866,9 @@ padding: 15px;
 border: 25px solid #F2F0CA;
 overflow: hidden;
 }
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) { }
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) { }
