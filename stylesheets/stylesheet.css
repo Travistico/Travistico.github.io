@@ -869,6 +869,9 @@ float: left;
 .date-link {
  font-weight: bold;
   font-size: 1.5em;
+  margin-top: 8px;
+  display: inline;
+  float: left;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
