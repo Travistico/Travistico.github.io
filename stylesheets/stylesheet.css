@@ -861,8 +861,6 @@ dl dd {
 /* Custom */
 .post-img {
 height: 250px; 
-width: 630px;
-padding: 15px;
 border: 25px solid #F2F0CA;
 overflow: hidden;
 }
