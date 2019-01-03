@@ -864,6 +864,7 @@ height: 250px;
 margin-top: 10px;
 border: 25px solid #F2F0CA;
 overflow: hidden;
+float: left;
 }
 
 .date-link {
